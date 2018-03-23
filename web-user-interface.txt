@@ -1,0 +1,1 @@
+The web user interface files are in the folder named "surveillance" you can place them in your localhost server or webhost server.
